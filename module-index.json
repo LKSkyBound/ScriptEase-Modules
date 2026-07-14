@@ -1,3 +1,15 @@
 {
-    "modules": []
+    "modules": [
+        {
+            "name": "ScriptEase 引导助手",
+            "author": "凌空SkyBound · 夏昇KCC · 溯",
+            "official": true,
+            "description": "新手引导模块，帮你快速上手 ScriptEase Hub 及模块开发。溯会以全屏自我介绍的方式首次亮相，之后收缩为对话助手，随时解答模块开发中的问题。",
+            "download_url": "https://raw.githubusercontent.com/LKSkyBound/ScriptEase-Modules/main/modules/GuideModule.zip",
+            "icon_url": "https://raw.githubusercontent.com/LKSkyBound/ScriptEase-Modules/main/modules/icons/guide.png",
+            "downloads": 0,
+            "category": "官方",
+            "size_kb": 50
+        }
+    ]
 }
