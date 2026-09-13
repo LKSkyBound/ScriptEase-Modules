@@ -1,0 +1,6 @@
+{
+  "chat_model": "deepseek-v4-flash",
+  "reasoner_model": "deepseek-v4-pro",
+  "vision_model": "deepseek-v4-flash-vision-exp",
+  "updated_at": "2026-09-13"
+}
