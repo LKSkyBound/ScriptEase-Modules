@@ -1,3 +1,17 @@
 {
-  "modules": []
+  "modules": [
+    {
+      "id": "LocalClock",
+      "name": "本地时钟",
+      "author": "灰宝",
+      "description": "这是一个用于测试的本地时钟模块。",
+      "version": "1.0.0",
+      "download_url": "https://github.com/LKSkyBound/ScriptEase-Modules/releases/download/v1.0.0/LocalClock_v1.0.0.zip",
+      "sha256": "你下载这个zip后算出来的哈希值", 
+      "module_type": "passive",
+      "official": true,
+      "size_kb": 35,
+      "downloads": 1
+    }
+  ]
 }
